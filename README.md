@@ -1,5 +1,5 @@
 # quiz-hci-1
-Team Member
-Annisa Sekar Rini Ayu - 1313621002
-Fathan Bainal Kaffi - 1313621037
-Salwa Tsabitah - 1313621042
+Team Member:<br>
+Annisa Sekar Rini Ayu - 1313621002 <br>
+Fathan Bainal Kaffi - 1313621037<br>
+Salwa Tsabitah - 1313621042<br>
