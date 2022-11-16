@@ -1,0 +1,7 @@
+{
+  "name": "Fishapi",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}
